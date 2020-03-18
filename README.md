@@ -1,10 +1,10 @@
 # SAP Cloud SDK Blockchain Tutorial: Bankdata Management
 
-Replicating master data for banks from S/4Hana to MultiChain and querying it from blockchain
+Replicating master data for banks from SAP S/4HANA to MultiChain and querying it from blockchain.
 
 ## Description
 
-In this tutorial example you will use SAP Cloud SDK and MultiChain blockchain technology to develop and deploy a basic bankdata cloud application in Java. This showcases how the SAP Cloud SDK can be used to develop blockchain applications in SAP Cloud Platform with an integration to S/4HANA.
+In this tutorial example you will use SAP Cloud SDK and MultiChain blockchain technology to develop and deploy a basic bankdata cloud application in Java. This showcases how the SAP Cloud SDK can be used to develop blockchain applications in SAP Cloud Platform with an integration to SAP S/4HANA.
 
 ## Requirements 
 
