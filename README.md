@@ -37,4 +37,4 @@ There is no support provided for this application.
 ## License
 
 Copyright (c) 2019 SAP SE or an SAP affiliate company. All rights reserved.
-This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE](LICENSE) file.
+This project is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE](LICENSE) file.
