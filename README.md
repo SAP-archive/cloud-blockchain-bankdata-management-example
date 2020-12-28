@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+This public repository is read-only and no longer maintained.
+
 # SAP Cloud SDK Blockchain Tutorial: Bankdata Management
 
 Replicating master data for banks from SAP S/4HANA to MultiChain and querying it from blockchain.
